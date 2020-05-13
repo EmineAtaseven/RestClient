@@ -1,0 +1,8 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          products:
+            client-id: tutorialspoint
+            client-secret: my-secret-key
